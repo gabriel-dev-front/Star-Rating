@@ -57,18 +57,21 @@
 @media (max-width: 835px ) {
     .notas a {
         font-size: 2em;
+        text-align: center;
     }
 }
 
 @media (max-width: 490px ) {
     .notas a {
         font-size:1.5em;
+        text-align: center;
     }
 }
 
 @media (max-width: 385px ) {
     .notas a {
         font-size: 1em;
+        text-align: center;
     }
 }
 
