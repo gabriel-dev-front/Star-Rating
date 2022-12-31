@@ -53,3 +53,37 @@
 .s5:hover ~ a {
     color: gold;
 }
+
+@media (max-width: 835px ) {
+    .notas a {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 490px ) {
+    .notas a {
+        font-size:1.5em;
+    }
+}
+
+@media (max-width: 385px ) {
+    .notas a {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 280px ) {
+    .notas a {
+        font-size: 0.5em;
+    }
+
+    .avalie {
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        color: blueviolet;
+        font-size: 15px;
+        text-align: center;
+    }
+}
