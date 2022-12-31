@@ -59,10 +59,8 @@
         font-size: 2em;
         
     }
-        .avalie {
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+    
+       .avalie {
         position: absolute;
         color: blueviolet;
         font-size: 20px;
@@ -73,12 +71,10 @@
 @media (max-width: 490px ) {
     .notas a {
         font-size:1.5em;
-        text-align: center;
+        
     }
-        .avalie {
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+    
+       .avalie {
         position: absolute;
         color: blueviolet;
         font-size: 20px;
@@ -92,9 +88,6 @@
         
     }
         .avalie {
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
         position: absolute;
         color: blueviolet;
         font-size: 20px;
@@ -108,9 +101,7 @@
     }
 
     .avalie {
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+
         position: absolute;
         color: blueviolet;
         font-size: 15px;
